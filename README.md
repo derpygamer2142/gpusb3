@@ -1,5 +1,9 @@
 # TurboWarp Extension Gallery
 
+This is a fork of the TurboWarp Extension Gallery, and it's where you can find [GPU.sb3](extensions/derpygamer2142/gpusb3.js). This project has a corresponding page on [my website](https://derpygamer2142.com/projects/gpusb3).
+
+# Old Description
+
 User-contributed unsandboxed extension gallery for TurboWarp.
 
 https://extensions.turbowarp.org/
